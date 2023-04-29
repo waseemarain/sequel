@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
