@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
