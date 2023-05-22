@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
