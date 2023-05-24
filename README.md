@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Fix device counting method to account for double-digit device IDs (#8502)
