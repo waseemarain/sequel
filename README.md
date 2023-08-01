@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
