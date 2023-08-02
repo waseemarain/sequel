@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
