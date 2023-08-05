@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+ultralytics 8.0.228 add training time argument (#7054)
