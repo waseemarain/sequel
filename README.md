@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
