@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Updated SQL Query Plot Code (#8120)
