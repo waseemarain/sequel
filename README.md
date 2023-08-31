@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
