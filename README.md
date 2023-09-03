@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Updated SQL Query Plot Code (#8120)
