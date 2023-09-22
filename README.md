@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
