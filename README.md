@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Update Docs Home and Neural Magic pages (#7243)
