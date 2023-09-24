@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
