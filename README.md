@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
