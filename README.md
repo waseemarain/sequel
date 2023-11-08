@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Add PR Summary step to Ultralytics Actions (#7675)
