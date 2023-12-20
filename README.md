@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Update docs building code (#7601)
