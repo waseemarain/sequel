@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
