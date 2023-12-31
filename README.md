@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Improve Coral Edge TPU guide (#8160)
