@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+OpenVino 2024.0.0 (#8726)
