@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Auto-format by https://ultralytics.com/actions
