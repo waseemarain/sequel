@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add PaddlePaddle Docs Integrations Page (#8858)
