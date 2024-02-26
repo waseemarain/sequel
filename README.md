@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
