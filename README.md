@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
