@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
