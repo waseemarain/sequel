@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+Feature: Create HUB Models from CLI or Python Script (#7316)
