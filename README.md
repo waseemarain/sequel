@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Update Discord and Contributing Guide URLs (#9270)
