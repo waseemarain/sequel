@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Tracker: clean up GMC (#8003)
