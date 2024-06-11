@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Fix docker.yaml double-quote version bug (#7452)
