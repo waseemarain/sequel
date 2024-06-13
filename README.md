@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add visuals in guides/distance-calculation.md (#7876)
