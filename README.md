@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
