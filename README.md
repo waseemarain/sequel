@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+OpenVino 2024.0.0 (#8726)
