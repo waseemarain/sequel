@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
