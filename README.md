@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Python refactorings and simplifications (#7549)
