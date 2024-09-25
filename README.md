@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Add Amazon Sagemaker Docs integrations page (#7293)
