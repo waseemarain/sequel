@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
