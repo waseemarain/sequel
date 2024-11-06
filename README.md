@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
