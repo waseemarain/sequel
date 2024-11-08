@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Update HTTP to HTTPS (#7548)
